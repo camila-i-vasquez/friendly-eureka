@@ -1,11 +1,17 @@
 # Macaron Base 
 ##(Bravetart, from [macarons](https://www.epicurious.com/recipes/member/views/french-macaron-brave-tart-579f7ac6437fcffe02f7233d)
+
 ##Ingredients
 * 115 g Almond Flour
+
 *230 g Powdered Sugar
+
 * 144 g Egg Whites (about 2/3 eggs)
+
 *72 g regular sugar
+
 *2 tsp vanilla extract
+
 * 2 g salt
 
 ## The actual Recipe
@@ -20,4 +26,6 @@
 
 ## Extras: 
 *matcha: 1/2 tablespoon match powder
+
+
 *tiramisu:  1/2 tsp espresso powder (kahlua/chocolate in filling)
