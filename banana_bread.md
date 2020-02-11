@@ -1,5 +1,5 @@
 # Banana Bread 
-## Basically the same recipe from [banana bread]{https://frogprincepaperie.com/best-banana-bread-recipe-with-sour-milk/}, but with weights
+## Basically the same recipe from [banana bread](https://frogprincepaperie.com/best-banana-bread-recipe-with-sour-milk/), but with weights
 
 ## Ingredients
 - 114g butter
