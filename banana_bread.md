@@ -22,7 +22,9 @@
 2. Cream butter and sugar, mix in wet ingredients(eggs, banana, vanilla, milk)
 3. Combine dry ingredients with wet ingredients, mix. 
 4. fold in add-ins.
-5. Bake! 
+5. Pour into pre buttered-and floured (loaf pan, if making a loaf)
+6. Bake! 
 ...baking time really depends on the thing you're baking in:
      - muffins get about 30 minutes
      - according to website, original recipe, a loaf will get about 70 minutes. 
+     - update: baking a single loaf can take as long as 2 hours. 
