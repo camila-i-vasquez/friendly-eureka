@@ -12,6 +12,7 @@
 - 1/2 cup buttermilk or sour milk
 ... can make sour milk with 1 tablespoon vinegar-let curdle. 
 
+- 250 g AP flour
 - 1 tsp baking powder
 - 1/2 tsp salt
 - 1/2 cup nuts (or chocolate chips) (or any add-in that you want)
